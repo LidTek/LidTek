@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1,h2,h3, .archivo{
+    font-family: 'Archivo Black', sans-serif;
+}
+
+span {
+    font-family: inherit;
+    font-weight: inherit;
+}
+
+.bgGrid {
+    background-size: 40px 40 px;
+    background-image: linear-gradient(to right grey 1px, transparent 1px),
+    linear-gradient(to bottom grey 1px, transparent 1px);
+}
