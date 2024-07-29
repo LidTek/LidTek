@@ -9,7 +9,7 @@
     <a href="/">
       <h1 class="font-semibold">Lid<span class="text-indigo-400">Tek</span></h1>
     </a>
-    <button class="md:hidden grid place-items-center">
+    <button>
       <i class="fa-solid fa-bars"></i>
     </button>
     <nav></nav>
