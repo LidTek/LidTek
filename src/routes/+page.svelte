@@ -8,8 +8,5 @@
 
 <main class="flex flex-col">
   <Hero></Hero>
-  <!-- <Header></Header>
-  <Product></Product>
   <Conversion></Conversion>
-  <Footer></Footer> -->
 </main>
