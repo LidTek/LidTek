@@ -6,7 +6,7 @@
       <h1 class="font-semibold text-blue-400">
         Lid<span class="text-indigo-800">Tek</span>
       </h1>
-      <p>©2023 LidTek LTD. All rights reserved.</p>
+      <p>©2024 LidTek LTD. All rights reserved.</p>
     </div>
     <div class="flex flex-col gap-4">
       <p class="font-bold poppins text-base sm:text-lg">Support</p>
@@ -39,7 +39,7 @@
     <div class="flex flex-col gap-4">
       <p class="font-bold poppins text-base sm:text-lg">Follow Us</p>
       <a
-        href=""
+        href="https://www.instagram.com/lidtekdev/"
         target="_blank"
         class="cursor-pointer hover:text-indigo-400 duration-200"
       >
