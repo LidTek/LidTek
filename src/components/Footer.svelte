@@ -47,7 +47,7 @@
         Instagram</a
       >
       <a
-        href="https://x.com/lidtekdev"
+        href="https://x.com/LidTek2024"
         target="_blank"
         class="cursor-pointer hover:text-indigo-400 duration-200"
       >
