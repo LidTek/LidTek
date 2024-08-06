@@ -15,10 +15,14 @@
       <i class="fa-solid fa-bars"></i>
     </button>
     <nav class="hidden md:flex items-center gap-4 lg:gap-6">
-      <a href="" class="duration-200 hover:text-blue-600 cursor-pointer"
-        >The Project</a
+      <a
+        href="https://github.com/LidTek"
+        class="duration-200 hover:text-blue-600 cursor-pointer"
       >
-      <a href="" class="duration-200 hover:text-blue-600 cursor-pointer"
+        <i class="fa-brands fa-github pr-2" />
+        Github
+      </a>
+      <a href="#goal" class="duration-200 hover:text-blue-600 cursor-pointer"
         >Our Goal</a
       >
       <button class="specialBtn">
