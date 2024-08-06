@@ -22,7 +22,7 @@
         <i class="fa-brands fa-github pr-2" />
         Github
       </a>
-      <a href="" class="duration-200 hover:text-blue-600 cursor-pointer"
+      <a href="/goal" class="duration-200 hover:text-blue-600 cursor-pointer"
         >Our Goal</a
       >
       <button class="specialBtn">
