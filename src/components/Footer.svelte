@@ -11,7 +11,7 @@
     <div class="flex flex-col gap-4">
       <p class="font-bold poppins text-base sm:text-lg">Support</p>
       <a
-        href="mailto: lidtekdev@outlook.com"
+        href="mailto: lidtekdev2024@outlook.com"
         target="_blank"
         class="cursor-pointer hover:text-indigo-400 duration-200"
       >
