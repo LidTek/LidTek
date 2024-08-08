@@ -1,1 +1,3 @@
 # LidTek Frontend
+
+Only landing page is avaliable for now...
