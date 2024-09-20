@@ -27,7 +27,7 @@
         Github
       </a>
       <a href="/goal" class="duration-200 hover:text-blue-600 cursor-pointer"
-        >Our Goal</a
+        >About Us</a
       >
       <button class="specialBtn">
         <a href="https://discord.gg/fmYnZss29N">Join Our Discord!</a>

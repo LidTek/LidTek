@@ -20,5 +20,21 @@
       server. By joining you will also help us build our community.
     </p>
     <CtAs></CtAs>
+    <h3
+      class="text-2xl sm:text-3xl md:text-4xl max-w-[1200px] mx-auto w-full text-center font-semibold text-blue-700"
+    >
+      Our First Project!
+    </h3>
+    <p
+      class="text-xl sm:text-2xl md:text-3xl text-center max-w-[1000px] mx-auto w-full"
+    >
+      a fun multiplayer drawing game using Golang, Svelte, and WebRTC!
+    </p>
+    <button class="specialBtnDark">
+      <a
+        href="https://drawniverse.gamu.group"
+        class="text-base sm:text-lg md:text-xl">Drawniverse&copy;</a
+      >
+    </button>
   </div>
 </SectionWrapper>

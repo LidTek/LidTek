@@ -10,7 +10,7 @@
     <p
       class="text-xl sm:text-2xl md:text-3xl text-center max-w-[1000px] mx-auto w-full"
     >
-      Making a fun multiplayer drawing game using Golang, Svelte, and WebRTC!
+      We crated this 2-people group for training eachother.
     </p>
   </div>
 </SectionWrapper>
