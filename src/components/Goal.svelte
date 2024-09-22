@@ -10,7 +10,7 @@
     <p
       class="text-xl sm:text-2xl md:text-3xl text-center max-w-[1000px] mx-auto w-full"
     >
-      We crated this 2-people group for training eachother.
+      We created this duo group for experimentation and learning.
     </p>
   </div>
 </SectionWrapper>
