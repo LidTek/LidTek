@@ -16,8 +16,7 @@
     <p
       class="text-xl sm:text-2xl md:text-3xl text-center max-w-[1000px] mx-auto w-full"
     >
-      Still in development... but we have a discord server!! You can join our
-      server. By joining you will also help us build our community.
+      We are curious about learning new things,
     </p>
     <CtAs></CtAs>
     <h3
