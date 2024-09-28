@@ -12,5 +12,24 @@
     >
       We created this duo group for experimentation and learning.
     </p>
-  </div>
-</SectionWrapper>
+    <div class="flex items-center justify-center">
+      <a href="https://github.com/kettek">
+        <img
+          class="object-scale-down h-48 w-96"
+          alt="Us"
+          src="../../kettek.png"
+        />
+      </a>
+      <img
+        class="object-scale-down h-48 w-96"
+        alt="Us"
+        src="../../temidara.png"
+      />
+    </div>
+    <!-- <div class="flex justify-center gap-20">
+      <h1 class="">kettek</h1>
+      <h1>temidaradev</h1>
+    </div>
+  </div> -->
+  </div></SectionWrapper
+>
