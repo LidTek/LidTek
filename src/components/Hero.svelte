@@ -16,7 +16,8 @@
     <p
       class="text-xl sm:text-2xl md:text-3xl text-center max-w-[1000px] mx-auto w-full"
     >
-      We are curious about learning new things,
+      We are curious about learning new things, we are planning nice projects
+      with this group we established for experimental and learning purposes.
     </p>
     <CtAs></CtAs>
     <h3
