@@ -12,13 +12,7 @@
         Lid<span class="text-indigo-800">Tek</span>
       </h1>
     </a>
-    <button
-      on:click={() => ($openModal = true)}
-      class="md:hidden grid place-items-center"
-    >
-      <i class="fa-solid fa-bars"></i>
-    </button>
-    <nav class="hidden md:flex items-center gap-4 lg:gap-6">
+    <nav class="md:flex items-center gap-4 lg:gap-6">
       <a
         href="https://github.com/LidTek"
         class="duration-200 hover:text-blue-600 cursor-pointer"
