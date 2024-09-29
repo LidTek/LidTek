@@ -14,6 +14,9 @@
           alt="Us"
           src="../../kettek.png"
         />
+        <div class="flex justify-center gap-20">
+          <h1>kettek</h1>
+        </div>
       </a>
       <a href="https://github.com/temidaradev">
         <img
@@ -21,7 +24,10 @@
           alt="Us"
           src="../../temidara.png"
         />
-      </a>
+        <div class="flex justify-center gap-20">
+          <h1>temidara</h1>
+        </div></a
+      >
     </div>
     <!-- <div class="flex justify-center gap-20">
       <h1 class="">kettek</h1>
