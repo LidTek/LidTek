@@ -12,7 +12,7 @@
         Lid<span class="text-indigo-800">Tek</span>
       </h1>
     </a>
-    <nav class="md:flex items-center gap-4 lg:gap-6">
+    <nav class="flex items-center gap-4 md:gap-10 lg:gap-6">
       <a
         href="https://github.com/LidTek"
         class="duration-200 hover:text-blue-600 cursor-pointer"

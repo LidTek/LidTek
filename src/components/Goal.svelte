@@ -29,10 +29,5 @@
         </div></a
       >
     </div>
-    <!-- <div class="flex justify-center gap-20">
-      <h1 class="">kettek</h1>
-      <h1>temidaradev</h1>
-    </div>
-  </div> -->
   </div></SectionWrapper
 >
