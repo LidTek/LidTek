@@ -1,3 +1,3 @@
-# LidTek Frontend
+# LidTek
 
-Only landing page is avaliable for now...
+The repo for our group
